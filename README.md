@@ -71,7 +71,7 @@ python3 SmuggleMyPayload.py
 
 Special thanks and credits to:
 
-- [Mgeeky](https://github.com/mgeeky) For his research and valuable contributions to HTML Smuggling techniques and offensive tooling.
+- [MGeeky](https://github.com/mgeeky) For his research and valuable contributions to HTML Smuggling techniques and offensive tooling.
 - [White Knight Labs](https://whiteknightlabs.com/) For their training, research materials, and ongoing contributions to the offensive security community.
 - [Lavender](https://github.com/Lavender-exe) For her support.
 

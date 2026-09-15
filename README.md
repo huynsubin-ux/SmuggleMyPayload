@@ -46,7 +46,7 @@ SmuggleMyPayload is an **HTML** Smuggling toolkit for generating **HTML** pages 
 Clone the repository:
 
 ```bash
-git clone [https://github.com/shaheeryasirofficial/SmuggleMyPayload](https://github.com/shaheeryasirofficial/SmuggleMyPayload)
+git clone https://github.com/shaheeryasirofficial/SmuggleMyPayload
 cd SmuggleMyPayload
 python3 SmuggleMyPayload.py
 ```

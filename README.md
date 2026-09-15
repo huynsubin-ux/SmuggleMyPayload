@@ -1,6 +1,7 @@
 # SmuggleMyPayload
-
-SmuggleMyPayload is an **HTML** Smuggling toolkit for generating **HTML** pages that embed and reconstruct files using JavaScript. It provides multiple **HTML** Smuggling methods, payload encoding options, JavaScript variations, and several built-in **HTML** templates.
+![Preview](Source/tool.png)
+SmuggleMyPayload is an **HTML** Smuggling toolkit for generating **HTML** pages that embed and reconstruct files using JavaScript. 
+It provides multiple **HTML** Smuggling methods, payload encoding options, JavaScript variations, and several built-in **HTML** templates.
 
 ## Features
 

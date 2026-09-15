@@ -48,6 +48,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/shaheeryasirofficial/SmuggleMyPayload
 cd SmuggleMyPayload
+cd Source
 python3 SmuggleMyPayload.py
 ```
 

